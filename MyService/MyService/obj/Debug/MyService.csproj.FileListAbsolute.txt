@@ -1,0 +1,5 @@
+E:\Development\Test\WCF Test1\MyService\MyService\bin\Debug\MyService.dll.config
+E:\Development\Test\WCF Test1\MyService\MyService\bin\Debug\MyService.dll
+E:\Development\Test\WCF Test1\MyService\MyService\bin\Debug\MyService.pdb
+E:\Development\Test\WCF Test1\MyService\MyService\obj\Debug\MyService.dll
+E:\Development\Test\WCF Test1\MyService\MyService\obj\Debug\MyService.pdb
