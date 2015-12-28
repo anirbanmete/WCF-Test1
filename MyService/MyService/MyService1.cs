@@ -1,4 +1,8 @@
-﻿using System;
+﻿/**************************************WCF Project*************************************/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,7 +38,7 @@ namespace MyService
     {
         public string HiEmployee(Employee employee)
         {
-            return string.Format( "HiEmployee {0} {1}",employee.EmpID,employee.EmpName );
+            return string.Format( "Hi Employee {0} {1}",employee.EmpID,employee.EmpName );
 
         }
     }
